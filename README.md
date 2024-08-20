@@ -12,7 +12,7 @@ A CRUD (Create, Read, Update, Delete) application built using React and Axios. T
 
 ###
 
- <p align="1eft">Netlify  : </p>   
+ <p align="1eft">Netlify  :https://reacttask-axios.netlify.app </p>   
 
  ## Technologies Used
 
